@@ -1,0 +1,11 @@
+{
+  "main.js": "/voting/static/js/main.ff81f6d1.chunk.js",
+  "main.js.map": "/voting/static/js/main.ff81f6d1.chunk.js.map",
+  "runtime~main.js": "/voting/static/js/runtime~main.88e4baa7.js",
+  "runtime~main.js.map": "/voting/static/js/runtime~main.88e4baa7.js.map",
+  "static/js/2.a5adb38c.chunk.js": "/voting/static/js/2.a5adb38c.chunk.js",
+  "static/js/2.a5adb38c.chunk.js.map": "/voting/static/js/2.a5adb38c.chunk.js.map",
+  "index.html": "/voting/index.html",
+  "precache-manifest.29dc6b0ed39ca505db1a58268626186b.js": "/voting/precache-manifest.29dc6b0ed39ca505db1a58268626186b.js",
+  "service-worker.js": "/voting/service-worker.js"
+}
